@@ -59,7 +59,7 @@ def SOL(score = 'accuracy', distribution = 'uniform',\
     
     Authors: Guastavino S. & Marchetti F.
 
-    References: http://arxiv.org ...
+    References: https://arxiv.org/abs/2103.15522
 
     Usage:
      model.compile(loss=SOL(score = 'accuracy', distribution = 'uniform', mu = 0.5, delta = 0.1, mode = 'average'))
